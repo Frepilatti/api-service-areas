@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic[email]==1.10.12
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+shapely
+python-dotenv
+pytest
+httpx
+sqlalchemy-utils
